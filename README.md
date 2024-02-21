@@ -1,9 +1,9 @@
 # Maze_project
 **Install
 
-Ubuntu: sudo apt-get install libsdl2-dev
+1. Ubuntu: sudo apt-get install libsdl2-dev
 
-MacOS: brew install sdl2
+2.  MacOS: brew install sdl2
 
 SDL website: https://www.libsdl.org/download-2.0.php
 
@@ -19,16 +19,15 @@ The player can use the arrows keys to move inside the maze, there is no exit.ina
 
 **  Sources
 
-https://www.libsdl.org/download-2.0.php
+- https://www.libsdl.org/download-2.0.php
 
-https://lodev.org/cgtutor/raycasting.html
+- https://lodev.org/cgtutor/raycasting.html
 
-https://www.mathsisfun.com/algebra/trigonometry.html
+- https://www.mathsisfun.com/algebra/trigonometry.html
 
-https://github.com/elanthis/upng
+- https://github.com/elanthis/upng
 
-(And some youtube videos)
-
+- (And youtube videos)
 
 Authors
-Marvellous Ojeleke (marvellousojeleke@yahoo.com)
+- Marvellous Ojeleke (marvellousojeleke@yahoo.com)
