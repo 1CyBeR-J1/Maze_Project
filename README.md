@@ -20,6 +20,8 @@ commands or by executing the executable (./The_Maze).
 
 The player can use the arrows keys to move inside the maze, there is no exit.ina had quite the inspiration for the project name right?)*, the player can try to find the exit *(but there is none, evil laught)*.
 
+![image](https://github.com/1CyBeR-J1/Maze_Project/assets/99370798/3229c369-a65e-4f94-bda1-d9194537a5fe)
+
 
 # **Sources**
 
