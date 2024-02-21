@@ -29,3 +29,6 @@ https://github.com/elanthis/upng
 
 (And some youtube videos)
 
+
+Authors
+Marvellous Ojeleke (marvellousojeleke@yahoo.com)
